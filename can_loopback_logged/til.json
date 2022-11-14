@@ -1,0 +1,254 @@
+{
+	"10023": {
+		"Type": "TRICE",
+		"Strg": "PIO_LL: Resetting TX SM\\n"
+	},
+	"10109": {
+		"Type": "TRICE",
+		"Strg": "RX_STT: Updating data state discard (0x%08x)\\n"
+	},
+	"10154": {
+		"Type": "TRICE",
+		"Strg": "RX_STT: Updating data state DATA0 (0x%08x)\\n"
+	},
+	"10312": {
+		"Type": "TRICE",
+		"Strg": "RPT_CB: Report Note Message Start\\n"
+	},
+	"10555": {
+		"Type": "TRICE",
+		"Strg": "RX_STT: Line state passive\\n"
+	},
+	"10653": {
+		"Type": "TRICE",
+		"Strg": "TX_STT: Acking received transmission\\n"
+	},
+	"10902": {
+		"Type": "TRICE",
+		"Strg": "RPT_CB: Report Note CRC Start\\n"
+	},
+	"10912": {
+		"Type": "TRICE",
+		"Strg": "RPT_CB: Report line maytx [slow tx]\\n"
+	},
+	"11012": {
+		"Type": "TRICE",
+		"Strg": "RPT_CB: Report Note Parse Error\\n"
+	},
+	"11152": {
+		"Type": "TRICE",
+		"Strg": "PIO_LL: Queuing ack for TX SM\\n"
+	},
+	"11253": {
+		"Type": "TRICE32",
+		"Strg": "att: Trice 2x half buffer size:%4u "
+	},
+	"11322": {
+		"Type": "TRICE",
+		"Strg": "IRQ_CB: \u003c\u003c\u003c PIO IRQ Done\\n"
+	},
+	"11341": {
+		"Type": "TRICE",
+		"Strg": "RX_STT: Updating data state EOF1 (0x%08x)\\n"
+	},
+	"11425": {
+		"Type": "TRICE",
+		"Strg": "RX_STT: Updating data state CRC (0x%08x)\\n"
+	},
+	"11481": {
+		"Type": "TRICE",
+		"Strg": "RPT_CB: Report line matched [fast tx]\\n"
+	},
+	"11485": {
+		"Type": "TRICE",
+		"Strg": "RX_STT: Transitioning to MS_CRC\\n"
+	},
+	"11558": {
+		"Type": "TRICE",
+		"Strg": "IRQ_CB: \u003e\u003e\u003e PIO IRQ Fired\\n"
+	},
+	"11635": {
+		"Type": "TRICE",
+		"Strg": "TX_STT: RX too slow, can't ack RX\\n"
+	},
+	"11651": {
+		"Type": "TRICE",
+		"Strg": "PIO_LL: RX SM Setup\\n"
+	},
+	"12062": {
+		"Type": "TRICE",
+		"Strg": "MAIN_C: Notify RX\\n"
+	},
+	"12150": {
+		"Type": "TRICE",
+		"Strg": "RPT_CB: Report Note EOF Found\\n"
+	},
+	"12270": {
+		"Type": "TRICE",
+		"Strg": "PIO_LL: Sync SM Setup\\n"
+	},
+	"12417": {
+		"Type": "TRICE",
+		"Strg": "MAIN_C: Startup\\n"
+	},
+	"12440": {
+		"Type": "TRICE",
+		"Strg": "RPT_CB: Report line ackdone [acked rx msg]\\n"
+	},
+	"12447": {
+		"Type": "TRICE",
+		"Strg": "TX_STT: RX found a different message from queued TX\\n"
+	},
+	"12453": {
+		"Type": "TRICE",
+		"Strg": "RX_STT: Transitioning to MS_DISCARD\\n"
+	},
+	"12515": {
+		"Type": "TRICE",
+		"Strg": "RX_STT: Updating data state EOF0 (0x%08x)\\n"
+	},
+	"12516": {
+		"Type": "TRICE",
+		"Strg": "RX_STT: Updating data state EXT HEADER (0x%08x)\\n"
+	},
+	"12520": {
+		"Type": "TRICE",
+		"Strg": "RX_STT: Raw Stuffed bits: 0x%08x, count stuff: 0x%08x, stuffed_bits: 0x%08x\\n"
+	},
+	"12531": {
+		"Type": "TRICE",
+		"Strg": "PIO_LL: Setting rx irq\\n"
+	},
+	"12705": {
+		"Type": "TRICE",
+		"Strg": "RPT_CB: Report Note ACK Success\\n"
+	},
+	"12706": {
+		"Type": "TRICE",
+		"Strg": "RX_STT: Setting parse state to %d (need %d bits)\\n"
+	},
+	"12763": {
+		"Type": "TRICE",
+		"Strg": "PIO_LL: Match SM Setup\\n"
+	},
+	"12795": {
+		"Type": "TRICE",
+		"Strg": "RX_STT: Updating data state START (0x%08x)\\n"
+	},
+	"12855": {
+		"Type": "TRICE",
+		"Strg": "RX_STT: Counter overflow in Sync state machine\\n"
+	},
+	"12900": {
+		"Type": "TRICE",
+		"Strg": "PIO_LL: TX SM Setup\\n"
+	},
+	"12901": {
+		"Type": "TRICE",
+		"Strg": "TX_STT: Transmitting next message in queue\\n"
+	},
+	"13037": {
+		"Type": "TRICE",
+		"Strg": "PIO_LL: setting initial state\\n"
+	},
+	"13279": {
+		"Type": "TRICE",
+		"Strg": "PIO_LL: Enabling additional maytx irq\\n"
+	},
+	"13302": {
+		"Type": "TRICE",
+		"Strg": "PIO_LL: sync slow start signal\\n"
+	},
+	"13403": {
+		"Type": "TRICE",
+		"Strg": "MAIN_C: Notify ERROR\\n"
+	},
+	"13504": {
+		"Type": "TRICE",
+		"Strg": "RX_STT: Error switching to SOF 0x%08x\\n"
+	},
+	"13575": {
+		"Type": "TRICE",
+		"Strg": "RPT_CB: Report Note CRC Success\\n"
+	},
+	"13644": {
+		"Type": "TRICE",
+		"Strg": "RX_STT: Updating data state DATA1 (0x%08x)\\n"
+	},
+	"13733": {
+		"Type": "TRICE",
+		"Strg": "PIO_LL: Setting maytx and rx irq\\n"
+	},
+	"13778": {
+		"Type": "TRICE32",
+		"Strg": "att:Single Trice Stack buf size:%4u"
+	},
+	"13818": {
+		"Type": "TRICE",
+		"Strg": "RX_STT: Updating data state HEADER (0x%08x)\\n"
+	},
+	"13866": {
+		"Type": "TRICE",
+		"Strg": "TX_STT: RX heard transmitted message\\n"
+	},
+	"14113": {
+		"Type": "TRICE32",
+		"Strg": "wrn:Transmit buffer truncated from %u to %u\\n"
+	},
+	"14122": {
+		"Type": "TRICE",
+		"Strg": "MAIN_C: Notify TX\\n"
+	},
+	"14129": {
+		"Type": "TRICE",
+		"Strg": "PIO_LL: Setting maytx, ackdone, and rx irq\\n"
+	},
+	"14145": {
+		"Type": "TRICE",
+		"Strg": "IRQ_CB: Processing RX data (0x%08x)\\n"
+	},
+	"14343": {
+		"Type": "TRICE",
+		"Strg": "RX_STT: Transitioning to MS_DATA0 (0x%08x)\\n"
+	},
+	"14690": {
+		"Type": "TRICE",
+		"Strg": "TX_STT: Attempting to queue but already transmitting\\n"
+	},
+	"14852": {
+		"Type": "TRICE",
+		"Strg": "PIO_LL: Queuing message for TX SM (count: %d)\\n"
+	},
+	"14873": {
+		"Type": "TRICE",
+		"Strg": "PIO_LL: setting up SM\\n"
+	},
+	"15044": {
+		"Type": "TRICE",
+		"Strg": "PIO_LL: sync normal start signal\\n"
+	},
+	"15222": {
+		"Type": "TRICE",
+		"Strg": "TX_STT: Attempting to queue but no messages to send\\n"
+	},
+	"15265": {
+		"Type": "TRICE",
+		"Strg": "RX_STT: Updating data state ACK (0x%08x)\\n"
+	},
+	"15428": {
+		"Type": "TRICE",
+		"Strg": "RX_STT: Line stuck active\\n"
+	},
+	"15536": {
+		"Type": "TRICE",
+		"Strg": "MAIN_C: Sent heartbeat\\n"
+	},
+	"15606": {
+		"Type": "TRICE",
+		"Strg": "PIO_LL: setting Match SM (key: %08x)\\n"
+	},
+	"15628": {
+		"Type": "TRICE",
+		"Strg": "PIO_LL: Setting maytx, matched, and rx irq\\n"
+	}
+}
